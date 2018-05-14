@@ -66,6 +66,17 @@ public class PlanetExplorer {
 			}
 		}
 		
+		// Adding some nonsense empty lines for testing purposes...
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
 		return obs;
 	}
 
